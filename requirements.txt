@@ -3,5 +3,6 @@ pandas
 plotly
 folium
 streamlit-folium
-tzwhere 
+shapely
+
 
